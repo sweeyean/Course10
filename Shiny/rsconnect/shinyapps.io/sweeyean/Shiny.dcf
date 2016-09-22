@@ -1,0 +1,10 @@
+name: Shiny
+account: sweeyean
+server: shinyapps.io
+appId: 127061
+bundleId: 565096
+url: https://sweeyean.shinyapps.io/Shiny/
+when: 1474554828.41962
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ui-with_tab.R|data/ngrams_and_profanities.RData|data/Not_working.RData|data/profanity.txt|data/wordprediction.RData
